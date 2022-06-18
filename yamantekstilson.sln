@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yamantekstilson", "yamantekstilson\yamantekstilson.csproj", "{48B6382E-7030-43A0-9E1D-F1DBDBC0FB70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{5707C2C7-35D6-4E73-8321-2E0112EAE5F2}"
+	ProjectSection(SolutionItems) = preProject
+		yamantekstilson\Form1.cs = yamantekstilson\Form1.cs
+		yamantekstilson\Form1.Designer.cs = yamantekstilson\Form1.Designer.cs
+		yamantekstilson\Form1.resx = yamantekstilson\Form1.resx
+		yamantekstilson\Frmurun.cs = yamantekstilson\Frmurun.cs
+		yamantekstilson\Frmurun.Designer.cs = yamantekstilson\Frmurun.Designer.cs
+		yamantekstilson\Frmurun.resx = yamantekstilson\Frmurun.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B6382E-7030-43A0-9E1D-F1DBDBC0FB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B6382E-7030-43A0-9E1D-F1DBDBC0FB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B6382E-7030-43A0-9E1D-F1DBDBC0FB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B6382E-7030-43A0-9E1D-F1DBDBC0FB70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53AFD302-1761-4F7E-AF61-4DC03397A0BB}
+	EndGlobalSection
+EndGlobal
